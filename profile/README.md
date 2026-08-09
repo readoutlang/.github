@@ -20,6 +20,12 @@ coordinate.*
 | **In your editor** | A Zed extension highlights the fence as you type it. |
 | **On a canvas** | And for the big standalone maps - architecture, data models, 80-edge graphs - the same source renders as an infinite pan/zoom board. |
 
+<img src="https://raw.githubusercontent.com/readoutlang/readoutlang/main/examples/embed-chat.dark.png" alt="A Readout block inside a Playcode AI chat message: a four-step checkout flow as a vertical chain with a red failure path" width="420" align="right">
+
+*In a chat panel the same source becomes a vertical chain - measured, not
+width-gated - with a corridor reserved for the failure path. The reader can pan,
+zoom, open it full screen, or copy the source back out.*
+
 ### The bit that makes it work
 
 You author **structure and meaning**. The renderer owns everything else:
